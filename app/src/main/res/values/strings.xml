@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mama\'s Little Bakery</string>
+    <string name="example_text_long">Mama\'s Little Bakery has been cherished for its selection of old-fashioned, freshly baked desserts, vintage decor and warm, inviting atmosphere.
+    We are here to serve you the best, delicious experience.</string>
+    <string name="bakery_address">620 Eighth Avenue New York, NY 10018</string>
+    <string name="bakery_phone">773 248 251</string>
+    <string name="short_sample_text">Royal baguette</string>
+    <string name="font_basic">cursive</string>
+    <string name="special_1">Pumpkin Pie</string>
+    <string name="special_2">Chocolate Pudding</string>
+    <string name="special_3">Vanilla Cake</string>
+    <string name="about">About</string>
+    <string name="specials">Our specials</string>
+    <string name="contact">Contact info</string>
+</resources>
